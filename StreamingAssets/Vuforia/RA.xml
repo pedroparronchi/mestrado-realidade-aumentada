@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="pill" size="1.000000 1.457195" />
-    <ImageTarget name="braquicardia" size="1.000000 1.464706" />
-    <ImageTarget name="taquicardia" size="1.000000 0.774332" />
+    <ImageTarget name="Taquicardia" size="50.000000 75.774651" />
+    <ImageTarget name="Regular" size="50.000000 75.774651" />
+    <ImageTarget name="Pilula" size="50.000000 75.774651" />
+    <ImageTarget name="Irregular" size="50.000000 75.774651" />
+    <ImageTarget name="Bradicardia" size="50.000000 75.774651" />
   </Tracking>
 </QCARConfig>
